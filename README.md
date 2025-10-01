@@ -12,7 +12,9 @@
 - ### 🐍 **Python**: Advanced generator with full customization (custom characters + per-character counts)  
 - ### 🌐 **JavaScript**: Basic generator (length, [A-Z], [a-z], [0-9], [!@#$%^&*-])  
 - ### ⚡**Go**: Basic generator (length, [A-Z], [a-z], [0-9], [!@#$%^&*-])  
-- ### ⚙️ **Rust**: Basic generator (length, [A-Z], [a-z], [0-9], [!@#$%^&*-])  
+- ### ⚙️ **Rust**: Basic generator (length, [A-Z], [a-z], [0-9], [!@#$%^&*-])
+- ### ♨️ **Java**: Basic generator (length, [A-Z], [a-z], [0-9], [!@#$%^&*-])
+- ### 🐘 **PHP**: Basic generator (length, [A-Z], [a-z], [0-9], [!@#$%^&*-])
 
 ## 💡 Suggestions
 ### I'm open to any suggestions you might have!
